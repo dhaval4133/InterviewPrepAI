@@ -52,8 +52,7 @@ interview-prep-ai/
 ```bash
 git clone https://github.com/DHAVAL4133/interview-prep-ai.git
 cd interview-prep-ai
-
----
+```
 
 
 ✨ Features
