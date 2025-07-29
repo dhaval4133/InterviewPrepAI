@@ -56,6 +56,7 @@ cd interview-prep-ai
 
 
 ✨ Features
+
 🔐 User Authentication with JWT
 
 🤖 AI-Powered Interview Simulation (Google GenAI)
