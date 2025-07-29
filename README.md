@@ -8,7 +8,7 @@
 
 ### 🧠 Backend (`/backend`)
 - **Node.js**
-- **Express 5**
+- **Express **
 - **Google GenAI (`@google/genai`)**
 - **MongoDB with Mongoose**
 - **JWT Authentication**
@@ -16,14 +16,12 @@
 - **dotenv, CORS, bcryptjs**
 
 ### 💻 Frontend (`/frontend`)
-- **React 19**
-- **Vite (Blazing fast build tool)**
-- **Tailwind CSS 4**
+- **React **
+- **Tailwind CSS **
 - **React Router DOM**
 - **Axios for API requests**
 - **Framer Motion for animations**
 - **React Markdown + Syntax Highlighter**
-- **React Hot Toast for notifications**
 
 ---
 
@@ -62,8 +60,6 @@ cd interview-prep-ai
 🔐 User Authentication with JWT
 
 🤖 AI-Powered Interview Simulation (Google GenAI)
-
-📄 Markdown-based Answer Rendering
 
 📁 File Upload (via Multer)
 
